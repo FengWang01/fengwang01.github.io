@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '#home'
     weight: 10
 
   - name: People
@@ -25,7 +25,7 @@ main:
     url: 'teaching'
     weight: 40
 
-  - name: Blank
+  - name: Coming-soon
     url: 'blank'
     weight: 50
 
