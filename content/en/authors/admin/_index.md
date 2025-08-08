@@ -54,4 +54,4 @@ title:
 
 ---
 
-As a dendrhcornologies, I use various types of measurements from trees and tree rings to intepret changes in climate, environment, and forest ecosystems over the Common Era. I am particularly interested in the application of cutting-edge tehcniques in my research. Keywords: tree rings, forest ecosystems, climate variability and extremes, process-based models, quantitative wood anatomy, X-ray computed tomography 
+As a dendrhcornologist, I use various types of measurements from trees and tree rings to intepret changes in climate, environment, and forest ecosystems over the Common Era. I am particularly interested in the application of cutting-edge tehcniques in my research. Keywords: tree rings, forest ecosystems, climate variability and extremes, process-based models, quantitative wood anatomy, X-ray computed tomography 
