@@ -1,6 +1,6 @@
 ---
-title: Blank
+title: Coming soon
 subtitle: A simple yet classy theme for your blog
 ---
 
-This is the blank page
+This page is under construction.
