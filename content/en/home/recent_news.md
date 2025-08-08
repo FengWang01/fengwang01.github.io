@@ -22,6 +22,6 @@ design:
 ---
 
 <div class="row">
-<div class="news-date col-3"> Sep 20, 2024</div> <div class="news-title  col-9">Feng Wang's new page available today</div>
+<div class="news-date col-3"> Sep 20, 2024</div> <div class="news-title  col-9">Feng Wang's new page available today 68</div>
 
 </div>
