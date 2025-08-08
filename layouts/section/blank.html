@@ -1,0 +1,33 @@
+{{- define "main" -}}
+
+
+{{/* 头部图片 */}}
+<div class="site-header-container has-cover" style='background-image: url({{ "img/design/opp-bg.jpg" | relURL}});'>
+    <div class="scrim has-cover">
+        <div class="site-header">
+            <h1 class="title">{{ .Title }}</h1>
+            <p class="subtitle">{{ .Params.subtitle }}</p>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="universal-wrapper page-teaching container">
+
+    <div class="pt-3 pb-3">
+        <h1>{{ .Title }}</h1>
+    </div>
+
+
+    <div class="pub-list-wrap pb-5">
+
+    {{ .Content }}
+
+    </div>
+
+</div>
+
+
+{{- end -}}
