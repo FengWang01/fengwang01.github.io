@@ -15,4 +15,4 @@ weight: 10
 
 ---
 
-Feng is a dendrochronologist
+Feng is a dendrochronologist.
