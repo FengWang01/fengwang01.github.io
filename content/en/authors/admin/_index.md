@@ -24,7 +24,7 @@ email: "feng-wang@uiowa.edu"
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto: wangfeng_wfjj@163.com"
+  link: "mailto: feng-wang@uiowa.edu"
   
 #- icon: twitter
 #  icon_pack: fab
