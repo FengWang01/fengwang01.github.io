@@ -30,9 +30,9 @@ social:
 #  icon_pack: fab
 #  link: https://x.com/tipengchen
 
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#  icon_pack: fas
-#  link: https://scholar.google.com/citations?hl=en&user=r_cpud8AAAAJ
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=ncfep7QAAAAJ&hl=en
   
 - icon: github
   icon_pack: fab
@@ -54,4 +54,5 @@ title:
 
 ---
 
-I am a dendrochronologist studying climate, environmental change, and forest ecosystem dynamics since the late Holocene through diverse tree-ring measurements. My research emphasizes the application of cutting-edge techniques, including process-based modeling, quantitative wood anatomy, and X-ray computed tomography. Keywords: dendrochronology, tree rings, forest ecosystems, dendrometers, climate variability and extremes, process-based models, quantitative wood anatomy, X-ray computed tomography.
+I am a dendrochronologist studying climate, environmental change, and forest ecosystem dynamics since the late Holocene through diverse tree-ring measurements. My research emphasizes the application of cutting-edge techniques, including process-based modeling, quantitative wood anatomy, and X-ray computed tomography. 
+Keywords: dendrochronology, tree rings, forest ecosystems, dendrometers, climate variability and extremes, process-based models, quantitative wood anatomy, X-ray computed tomography.
