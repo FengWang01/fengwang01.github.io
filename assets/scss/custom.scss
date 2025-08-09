@@ -125,6 +125,10 @@ $text-primary-color: #ff3860;
   padding-bottom: 0.5rem !important; /* optional, for balance */
 }
 
+.page-publications .pubs-list li:last-child {
+  margin-bottom: 0 !important; /* no extra gap after the last item */
+}
+
 .home-pubs-section {
   .pub-title {
     font-weight: bold;
