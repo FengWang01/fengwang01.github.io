@@ -1,6 +1,6 @@
 ---
  
-title: Publications
+title: Selected ublications
 subtitle:
 
 pubs_list:
@@ -151,7 +151,7 @@ pubs_list:
   
   - title: "Application of micro-computed tomography (μCT) in quantifying xylem vessels of broadleaved trees"
     authors: "Bai, C., Liang, G., Fu, L., Han, E., Guo, X.#, **Wang, F.**"
-    journal: "Chinese Journal of Applied Ecology 35, 1214–1222 (In Chinese with English abstract), 2024"
+    journal: "Chinese Journal of Applied Ecology 35, 1214–1222 (In Chinese with English abstract), 2024."
     year: "Selected publications in Chinese"
     links:
       #- name: PDF(arXiv)
@@ -163,7 +163,7 @@ pubs_list:
 
   - title: ", 2016. Identification of archaeological wood excavated from Nanjing Longjiang shipyard. "
     authors: "Liao, Q., Pan, B.#, **Wang, F.**"
-    journal: "China Forest Products Industry 43, 23–27, 2016"
+    journal: "China Forest Products Industry 43, 23–27, 2016."
     year: "Selected publications in Chinese"
     links:
       #- name: PDF(arXiv)
