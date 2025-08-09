@@ -120,7 +120,10 @@ $text-primary-color: #ff3860;
   }
 }
 
-
+.page-publications .pubs-list li {
+  margin-bottom: 0.5rem !important; /* reduce vertical gap */
+  padding-bottom: 0.5rem !important; /* optional, for balance */
+}
 
 .home-pubs-section {
   .pub-title {

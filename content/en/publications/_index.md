@@ -1,6 +1,6 @@
 ---
  
-title: Selected ublications
+title: Publications
 subtitle:
 
 pubs_list:
