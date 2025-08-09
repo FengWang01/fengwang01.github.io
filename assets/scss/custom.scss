@@ -9,6 +9,12 @@ $text-primary-color: #ff3860;
   padding-bottom: 0.3rem;/* space below text */
 }
 
+.navbar .navbar-brand {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
 
 
 .site-header-container {
@@ -120,13 +126,10 @@ $text-primary-color: #ff3860;
   }
 }
 
-.page-publications .pubs-list li {
-  margin-bottom: 0.5rem !important; /* reduce vertical gap */
-  padding-bottom: 0.5rem !important; /* optional, for balance */
-}
-
-.page-publications .pubs-list li:last-child {
-  margin-bottom: 0 !important; /* no extra gap after the last item */
+.page-publications .media.stream-item {
+  margin-bottom: 0.6rem !important;   /* default is ~2rem */
+  padding-bottom: 0 !important;
+  border: 0 !important;
 }
 
 .home-pubs-section {
