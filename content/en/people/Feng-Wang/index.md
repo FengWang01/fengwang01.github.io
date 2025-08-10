@@ -2,7 +2,7 @@
 # 是否展示
 shown: true
 
-title: Feng Wang <br> Postdoctoral researcher, School of Earth, Environment, and Sustainability <br> University of Iowa
+title: Feng Wang <br> Postdoctoral researcher <br> School of Earth, Environment, and Sustainability, University of Iowa
 email: feng-wang@uiowa.com
 links: 
   - name: CV
