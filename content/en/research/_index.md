@@ -1,6 +1,6 @@
 ---
 title: Research
-subtitle: A simple yet classy theme for your blog
+#subtitle: A simple yet classy theme for your blog
 
 
 
