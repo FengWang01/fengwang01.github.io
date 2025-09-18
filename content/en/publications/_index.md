@@ -5,6 +5,18 @@ subtitle: When you touch these trees, you have such a sense of the passage of ti
 
 pubs_list:
   
+  - title: "Spatio-temporal characteristics of the 8.2 and 4.2 ka BP climate events in the East Asian summer monsoon region recorded by stalagmite δ18O data"
+    authors: "Fan, B., Yang, B.#, **Wang, F.**, Ljungqvist, F.C., Bräuning, A."
+    journal: "Science China Earth Sciences Special Topic: Multiscale variability of the Asian summer monsoon and associated climate modes, 1–14, 2025."
+    year: 2025
+    links:
+      #- name: PDF(arXiv)
+      #  url: https://arxiv.org/abs/2210.04477
+      - name: DOI
+        url: https://doi.org/10.1007/s11430-025-1621-5
+      #- name: Code
+      #  url: https://github.com/983632847/HiCo
+
   - title: "Meta-analysis of climate effects on radial growth of Qinghai spruce in northwestern China"
     authors: "Gao, C., Yang, B.#, **Wang, F.**, Li, G., Ljungqvist, F.C., Bräuning, A., Belokopytova, L.V., Vaganov, E.A."
     journal: "Journal of Forestry Research, 36, 92, 2025."
