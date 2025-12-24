@@ -6,7 +6,7 @@ note: "<sup>*</sup> Corresponding author"
 
 pubs_list:
   - title: "Quantifying bulk density of boreal peat using X-ray computed tomography"
-    authors: "Wang, F.*, Francus, P., Garneau, M., Letellier, P., Martini, M., De Coninck, A., Boucher É,."
+    authors: "**Wang, F.***, Francus, P., Garneau, M., Letellier, P., Martini, M., De Coninck, A., Boucher É,."
     journal: "Progress in Physical Geography Earth and Environment, 03091333251407028, 2025."
     year: 2025
     links:
