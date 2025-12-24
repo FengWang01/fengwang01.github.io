@@ -2,11 +2,23 @@
  
 title: Publications
 subtitle: When you touch these trees, you have such a sense of the passage of time, of history
+note: "<sup>*</sup> Corresponding author"
 
 pubs_list:
-  
+  - title: "Quantifying bulk density of boreal peat using X-ray computed tomography"
+    authors: "<strong>Wang, F.</strong><sup>*</sup>, Francus, P., Garneau, M., Letellier, P., Martini, M., De Coninck, A., Boucher É,."
+    journal: "Progress in Physical Geography Earth and Environment, 03091333251407028, 2025."
+    year: 2025
+    links:
+      #- name: PDF(arXiv)
+      #  url: https://arxiv.org/abs/2210.04477
+      - name: DOI
+        url: https://doi.org/10.1177/03091333251407028
+      #- name: Code
+      #  url: https://github.com/983632847/HiCo
+
   - title: "Spatio-temporal characteristics of the 8.2 and 4.2 ka BP climate events in the East Asian summer monsoon region recorded by stalagmite δ18O data"
-    authors: "Fan, B., Yang, B.*, **Wang, F..**, Ljungqvist, F.C., Bräuning, A."
+    authors: "Fan, B., Yang, B.*, **Wang, F.**, Ljungqvist, F.C., Bräuning, A."
     journal: "Science China Earth Sciences Special Topic: Multiscale variability of the Asian summer monsoon and associated climate modes, 1–14, 2025."
     year: 2025
     links:
@@ -30,7 +42,7 @@ pubs_list:
       #  url: https://github.com/983632847/HiCo
   
   - title: "Recent and future climate extremes in northwestern China from millennial tree-ring records"
-    authors: "Wang, S., **Wang, F..\***, Yang, B.*, Qin, C., Dannenberg, M.P."
+    authors: "Wang, S., **Wang, F.\***, Yang, B.*, Qin, C., Dannenberg, M.P."
     journal: "Geophysical Research Letters 52, 2025GL115814, 2025."
     year: 2025
     links:
