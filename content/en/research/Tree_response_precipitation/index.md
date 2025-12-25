@@ -7,5 +7,5 @@ featured: true
 share: false
 ---
 
-Using tree-ring widths, dendrometers, and process-based models, we are examining responses of U.S. tree growth to extreme precipitation, with the goal of understanding how wet extremes get "encoded" in the tree-ring record and how changes in precipitation extremes will affect forest growth. Funded by U.S. National Science Foundation, 2024-2027.  Personnel: Matt Dannenberg, Feng Wang
+Using tree-ring widths, dendrometers, and process-based models, we are examining responses of U.S. tree growth to extreme precipitation, with the goal of understanding how wet extremes get "encoded" in the tree-ring record and how changes in precipitation extremes will affect forest growth. Funded by U.S. National Science Foundation, 2024-2027.  Personnel: Matt Dannenberg (PI), Feng Wang
 
