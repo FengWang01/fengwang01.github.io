@@ -22,6 +22,8 @@ design:
 ---
 
 <div class="row">
+<div class="news-date col-3"> Dec 17, 2025</div> <div class="news-title  col-9">Feng Wang made a poster presentation at AGU 2025, New Orleans. </div>
+
 <div class="news-date col-3"> Aug 07, 2025</div> <div class="news-title  col-9">Feng Wang's new page available today! </div>
 
 </div>
