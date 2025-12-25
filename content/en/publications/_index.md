@@ -6,7 +6,7 @@ note: "*: Corresponding author"
 
 pubs_list:
   - title: "Quantifying bulk density of boreal peat using X-ray computed tomography"
-    authors: "__Wang, F.*__, Francus, P., Garneau, M., Letellier, P., Martini, M., De Coninck, A., Boucher É,."
+    authors: "__Wang, F.*__, Francus, P., Garneau, M., Letellier, P., Martini, M., De Coninck, A., Boucher, É."
     journal: "Progress in Physical Geography Earth and Environment, 03091333251407028, 2025."
     year: 2025
     links:
@@ -185,7 +185,7 @@ pubs_list:
       #- name: Project
       #  url: https://github.com/983632847/WebUAV-3M
 
-  - title: ", 2016. Identification of archaeological wood excavated from Nanjing Longjiang shipyard. "
+  - title: "Identification of archaeological wood excavated from Nanjing Longjiang shipyard. "
     authors: "Liao, Q., Pan, B.*, __Wang, F.__"
     journal: "China Forest Products Industry 43, 23–27, 2016."
     year: "Selected publications in Chinese"
