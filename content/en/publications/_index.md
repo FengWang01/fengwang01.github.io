@@ -5,6 +5,18 @@ subtitle: When you touch these trees, you have such a sense of the passage of ti
 note: "*: Corresponding author"
 
 pubs_list:
+  - title: "Evaluation of daily gridded climate products using in situ FLUXNET data and tree growth modeling"
+    authors: "__Wang, F.*__, Wise, E.K., Anchukaitis, K.J., Chang, Q., Dannenberg, M.P."
+    journal: "Environmental Research Letters, 2026."
+    year: 2026
+    links:
+      #- name: PDF(arXiv)
+      #  url: https://arxiv.org/abs/2210.04477
+      - name: DOI
+        url: https://doi.org/10.1088/1748-9326/ae384b
+      #- name: Code
+      #  url: https://github.com/983632847/HiCo
+
   - title: "Quantifying bulk density of boreal peat using X-ray computed tomography"
     authors: "__Wang, F.*__, Francus, P., Garneau, M., Letellier, P., Martini, M., De Coninck, A., Boucher, É."
     journal: "Progress in Physical Geography Earth and Environment, 03091333251407028, 2025."
