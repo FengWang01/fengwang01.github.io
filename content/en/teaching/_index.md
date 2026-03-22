@@ -3,4 +3,10 @@ title: Teaching
 subtitle: When you touch these trees, you have such a sense of the passage of time, of history
 ---
 
-Feng is appointed as adjunct assistant professor for Introduction to Climatology for Spring 2026 in School of Earth, Environment, and Sustainability.
+## Instructor
+**SEES2310 Introduction to Climatology**  
+  School of Earth, Environment, and Sustainability, University of Iowa, Spring 2026
+
+## Guest Lectures
+**SEES3315 Ecosystem Ecology**  
+  School of Earth, Environment, and Sustainability, University of Iowa, Full 2025
