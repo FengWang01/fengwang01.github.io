@@ -9,4 +9,4 @@ subtitle: When you touch these trees, you have such a sense of the passage of ti
 
 ## Guest Lectures
 **SEES3315 Ecosystem Ecology**  
-  School of Earth, Environment, and Sustainability, University of Iowa, Full 2025
+  School of Earth, Environment, and Sustainability, University of Iowa, Fall 2025
