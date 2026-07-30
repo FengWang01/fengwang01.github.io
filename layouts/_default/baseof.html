@@ -16,6 +16,42 @@
       {{with .File}}data-wc-page-id="{{.UniqueID}}"{{end}}
       {{with .Params.design.css_style}}style="{{. | safeCSS}}"{{end}}
 >
+  <style>
+    .navbar {
+      padding-top: 0.15rem !important;
+      padding-bottom: 0.15rem !important;
+      min-height: auto !important;
+      line-height: 1.1 !important;
+    }
+    .header--fixed .navbar,
+    .header--fixed .navbar-brand,
+    .header--fixed .navbar-toggler,
+    .header--fixed .nav-link,
+    .navbar .navbar-brand,
+    .navbar .nav-link {
+      padding-top: 0 !important;
+      padding-bottom: 0 !important;
+      margin-top: 0 !important;
+      margin-bottom: 0 !important;
+    }
+    .header--fixed .navbar-brand img {
+      max-height: 34px !important;
+      width: auto !important;
+    }
+    .article-container img,
+    .universal-wrapper img,
+    .page-body img,
+    .page img,
+    .widget img,
+    .widget-page img {
+      max-width: 85% !important;
+      height: auto !important;
+      width: auto !important;
+      display: block !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+  </style>
 
   {{/* Initialise Wowchemy. */}}
   {{ $js_license := printf "/*! Wowchemy v%s | https://wowchemy.com/ */\n" site.Data.wowchemy.version }}
