@@ -5,8 +5,35 @@ $text-primary-color: #ff3860;
 
 .navbar {
   font-size: 0.9rem;
-  padding-top: 0.3rem;   /* space above text */
-  padding-bottom: 0.3rem;/* space below text */
+  padding: 0.15rem 0 !important;
+  min-height: auto !important;
+  line-height: 1.1 !important;
+}
+.header--fixed,
+.header--fixed .navbar,
+.header--fixed .navbar-collapse,
+.header--fixed .navbar-brand,
+.header--fixed .navbar-toggler,
+.header--fixed .nav-link,
+.header--fixed .navbar-nav,
+.header--fixed .navbar-nav .nav-item {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+.header--fixed .navbar-brand,
+.header--fixed .navbar-toggler {
+  max-height: 40px !important;
+}
+.header--fixed .nav-link {
+  padding-top: 0.25rem !important;
+  padding-bottom: 0.25rem !important;
+  line-height: 1.2 !important;
+}
+.header--fixed .navbar-brand img {
+  max-height: 36px !important;
+  width: auto !important;
 }
 
 .site-header-container {
@@ -35,6 +62,20 @@ $text-primary-color: #ff3860;
 }
 .home-section:nth-of-type(even) {
   background: #fff;
+}
+
+/* Make inserted page images narrower in content areas */
+.page-body .article-container img,
+.page-body .universal-wrapper img,
+.page-body .widget img,
+.page-body .widget-page img,
+.page-body .page img {
+  max-width: 85%;
+  height: auto;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
