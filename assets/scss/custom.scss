@@ -5,31 +5,8 @@ $text-primary-color: #ff3860;
 
 .navbar {
   font-size: 0.9rem;
-  padding-top: 0.2rem !important;
-  padding-bottom: 0.2rem !important;
-  min-height: auto !important;
-}
-.header--fixed,
-.header--fixed .navbar {
-  padding-top: 0 !important;
-  padding-bottom: 0 !important;
-  min-height: auto !important;
-}
-.header--fixed .navbar-brand,
-.header--fixed .navbar-toggler,
-.header--fixed .nav-link {
-  padding-top: 0.25rem !important;
-  padding-bottom: 0.25rem !important;
-  line-height: 1.1 !important;
-}
-.header--fixed .navbar-brand {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-}
-.header--fixed .navbar-nav .nav-item .nav-link {
-  padding-top: 0.25rem !important;
-  padding-bottom: 0.25rem !important;
-  line-height: 1.2 !important;
+  padding-top: 0.3rem;   /* space above text */
+  padding-bottom: 0.3rem;/* space below text */
 }
 
 .site-header-container {
@@ -38,21 +15,19 @@ $text-primary-color: #ff3860;
     background-position: 50% 50%;
     background-size: cover;
 }
-.site-header-container.has-cover > .scrim.has-cover,
-.site-header-container > .scrim.has-cover {
+.site-header-container {
+    .scrim  {
     padding: 8em 1em !important;
-}
 
-#home > .scrim.has-cover,
-#home .scrim.has-cover {
-  padding: 5em 1em !important;
-}
-#home .site-header {
-  text-align: center;
-}
-#home .title {
-  font-size: 3rem;
-  color: #fff;
+      .site-header {
+        text-align: center;
+      }
+      .title {
+        font-size: 3rem;
+        color: #fff;
+      }
+  }
+
 }
 
 .home-section {
